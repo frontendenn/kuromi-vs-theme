@@ -1,0 +1,21 @@
+{
+  "name": "kuromi-vs-theme",
+  "displayName": "kuromi-vs-theme",
+  "description": "Kuromi inspired VS Code Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kuromi Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kuromi Theme-color-theme.json"
+      }
+    ]
+  }
+}
